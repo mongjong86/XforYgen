@@ -60,6 +60,7 @@ board games
 boats
 books
 bottles
+bowls
 boxers
 buckets
 burger king
